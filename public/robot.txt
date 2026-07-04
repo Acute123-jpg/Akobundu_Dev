@@ -1,4 +1,4 @@
        User-agent: *
        Allow: /
 
-       Sitemap: https://akobundu.dev.vercel.app/sitemap.xml
+       Sitemap: https://acute123-jpg.github.io/Akobundu_Dev/sitemap.xml
