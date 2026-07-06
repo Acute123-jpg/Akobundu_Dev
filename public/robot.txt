@@ -1,4 +1,4 @@
        User-agent: *
        Allow: /
 
-       Sitemap: https://acute123-jpg.github.io/Akobundu_Dev/sitemap.xml
+       Sitemap: akobundu-umunna.github.io/Akobundu_Dev/sitemap.xml
